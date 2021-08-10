@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @PaulvanT
-- 👀 I’m interested in Robotics and AI
+I like writing software that enables machines to become autonomous
